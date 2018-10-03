@@ -15,7 +15,7 @@ Two dataset (Test and training), each set contains three files, example from tra
 -   Y\_train.txt - contains a value of 1-6 whichs corresponds to the activity performed
 -   subject\_train.txt - IDs for the subjects
 
-The data also contains the file features.txt which contains all the feature names for the X\_train file <br> <br> Mergin all the data together into a dataframe it will look like below. ![Data frame example](C:\MachineLearning\Courses\Data%20science%20track\Month%203\Week%204\Project\Capture.PNG)
+The data also contains the file features.txt which contains all the feature names for the X\_train file <br> <br> Mergin all the data together into a dataframe it will look like below. ![Data frame example](Capture.PNG)
 
 ### Load librarys
 
